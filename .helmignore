@@ -1,8 +1,0 @@
-.git/
-.gitignore
-.keys/
-.terraform/
-terraform.tf*
-dags/
-plugins/
-Dockerfile
